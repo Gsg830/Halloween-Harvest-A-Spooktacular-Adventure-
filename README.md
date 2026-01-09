@@ -1,4 +1,4 @@
 # Halloween-Harvest-A-Spooktacular-Adventure-
-Dungeon Explorer turn based combat game java
+Dungeon Explorer turn based combat game java  with as worked upon remotely using Git.
 
 Done as a project for CSC207 at UTM with Sabrina Hirani, Mahmood Saifi, Keith Tran
